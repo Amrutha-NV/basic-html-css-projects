@@ -1,0 +1,59 @@
+* {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+
+header {
+    background-color: #6a1b9a;
+}
+
+nav ul li {
+    display: inline-block;
+    color: white;
+    margin: 10px;
+    padding: 10px;
+}
+
+h1 {
+    color: white;
+    margin-top: 10px;
+}
+
+div {
+    height: 700px;
+    width: 500px;
+    color: rgb(177, 250, 42);
+    font-weight: bold;
+    box-shadow: 5px 5px 10px black;
+}
+
+div:hover {
+    box-shadow: 10px 10px 20px rgb(39, 38, 38);
+}
+
+h2 {
+    color: rgb(245, 35, 35);
+}
+
+footer {
+    background-color: #6a1b9a;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    color: white;
+}
+
+#drawings {
+    background-image: url(drawing.png);
+    background-size: cover;
+}
+
+#streetphotography {
+    background-image: url(street.png);
+    background-size: cover;
+}
+
+section {
+    display: inline-block;
+    margin: 10px;
+}
