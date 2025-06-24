@@ -1,0 +1,42 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+header img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+div {
+    background-color: #f4f4f4;
+}
+
+#header {
+    margin: 0 auto;
+    text-align: center;
+    padding: 10px;
+}
+
+.project {
+    height: 200px;
+    width: 200px;
+    background-color: rgb(226, 224, 222);
+    box-shadow: 10px, 10px, 5px, black;
+    margin: 10px;
+    display: inline-block;
+    text-align: center;
+    line-height: 200px;
+}
+
+footer {
+    text-align: center;
+    background-color: #f4f4f4;
+    padding: 10px;
+}
+
+#mywork {
+    margin: 10px;
+    padding: 10px;
+}
