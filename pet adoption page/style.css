@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    text-align: center;
+}
+
+h2 {
+    color: orange;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+h1 {
+    color: black;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.card {
+    height: 500px;
+    width: 500px;
+    border: 2px solid black;
+    color: rgb(22, 22, 22);
+    margin: 1rem;
+    padding: 10px;
+    border-radius: 5%;
+}
+
+img {
+    height: 80%;
+    width: 100%;
+    border-radius: 5%;
+}
+
+footer {
+    background-color: rgb(80, 78, 78);
+    color: orange;
+    text-align: center;
+}
+
+#pets {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
