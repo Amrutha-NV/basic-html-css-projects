@@ -1,0 +1,12 @@
+* {
+    color: black;
+    text-align: center;
+}
+
+#answer {
+    border: 1px solid black;
+    margin: auto;
+    height: 100px;
+    width: 500px;
+    margin-top: 10px;
+}
